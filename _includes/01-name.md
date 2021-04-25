@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Smruti M
+### This is a sample HTML page
